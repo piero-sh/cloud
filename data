@@ -1,4 +1,4 @@
-server=0
+server=1
 user=1234&pass=5678
 user=9012&pass=3456
 user=7890&pass=1234
